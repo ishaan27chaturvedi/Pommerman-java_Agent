@@ -1,9 +1,14 @@
-AIIDE 2019 Artifact
--------------------
+# Java agent for Pommerman
 
-* Final paper: https://github.com/GAIGResearch/java-pommerman/raw/master/AIIDE-19_paper-46.pdf
+## Description
+Developed a statistical forward planning agent for a tournament of the game Pommerman. Added enhancements like pruning invalid moves and establishing an internal map for partially observable environments. Designed novel visualisations for games.
+
+* Original paper: https://github.com/GAIGResearch/java-pommerman/raw/master/AIIDE-19_paper-46.pdf
 
 * Download the artifact: clone this repository (master branch) or download as .zip file here: https://github.com/GAIGResearch/java-pommerman/archive/master.zip
+
+
+## Getting Started
 
 * Instructions to run the artifact:
  0) You need Java 8.0.1 version (or higher) to run this code.
